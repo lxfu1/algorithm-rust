@@ -8,7 +8,7 @@ edition = "2021"
 # cargo run --bin custom
 [[bin]]
 name = "custom"
-path = "src/remove-duplicates.rs"
+path = "src/divide.rs"
 
 
 [dependencies]
