@@ -8,7 +8,7 @@ edition = "2021"
 # cargo run --bin custom
 [[bin]]
 name = "custom"
-path = "src/next-permutation.rs"
+path = "src/search.rs"
 
 
 [dependencies]
