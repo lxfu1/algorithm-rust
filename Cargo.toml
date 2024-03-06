@@ -8,7 +8,7 @@ edition = "2021"
 # cargo run --bin custom
 [[bin]]
 name = "custom"
-path = "src/combination-sum.rs"
+path = "src/trap.rs"
 
 
 [dependencies]
